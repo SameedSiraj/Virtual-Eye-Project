@@ -1,0 +1,15 @@
+In the implementation of the object recognition feature, we use Tensor Flow lite instead of Tensor Flow in this application because mobile doesn't support the Tensor flow API. We will do the training of the model using Python Programming Language. The name of the model is Mobilenet_V1_1.0_224 for Object recognition. And we will develop our Android application using XML and Java in Android Studio. For better performance and accuracy we are preparing our own dataset which we also customize according to our choice. In currency recognition mode the user pointing the camera to the currency note the system assists them through voice the note is 10 rupees, 20 rupees or 1000 rupees. For currency recognition, we will use the image classification technique to recognize the currency. Since we are dealing with reading short text like labels, price tags, menu cards Tesseract OCR is doing well in detecting these text. However, commercial APIs are better but due to budget limitations we will use Tesseract OCR
+
+ 
+
+The Visually Impaired people access the App by using the "android accessibility suite ". There is only one (1) screen in our project which has three (3) different modes. The user can navigate between the modes with the help of the “android accessibility suite” and buttons. There are three (3) round buttons on our screen. The first is for a transition to the “Object Recognition” mode. The second button is for “Currency Identification” mode. While the last button is for “Text Reader” mode. The default mode is the first mode which is Object Recognition.
+
+ 
+
+In the implementation of the object recognition feature, we use Tensor Flow lite instead of Tensor Flow in this application because mobile doesn't support the Tensor flow API. We will do the training of the model using Python Programming Language. The name of the model is Mobilenet_V1_1.0_224 for Object Identification. And we will develop our Android application using XML and Java in Android Studio. For better performance and accuracy we are preparing our own dataset which we also customize according to our choice.
+ 
+
+In currency identification mode the user pointing the camera to the currency note the system assists them through voice the note is 10 rupees or 20 or 1000 rupees. For currency recognition, we will use the image classification technique to recognize the currency.
+ 
+
+In Text Reader mode for reading short text like labels, price tags, menu cards Tesseract OCR is doing well in detecting these text. However, commercial APIs are better but due to budget limitations we will use Tesseract OCR
