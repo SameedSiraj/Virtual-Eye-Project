@@ -1,5 +1,5 @@
 # Virtual-Eye-Project
-Project Area of Specialization:	Artificial Intelligence
+Project Area of Specialization:	Artificial Intelligence                                                                                                                             
 Project Start Date:	2020-10-26	
 Project End Date:	2021-05-31
 
