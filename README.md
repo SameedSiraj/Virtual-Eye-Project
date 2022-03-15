@@ -7,7 +7,7 @@ Tools and Technologies: Android Studio, Google Colab, Python, Java, XML
 It is an Android-based App for visually impaired people to provide them assistance in their daily routine tasks. The key features are Household Object Recognition, Currency Identification (Pakistani Currency) & Text Reading (short text like labels, cards single sheets of paper, etc.)
                                                                                                       
 ## Project Summary                                                                                                                                                                   
-### Motivation
+### Motivation:
 The current estimate suggests that there are 1.25 million blind individuals of all ages in Pakistan. They want to be a normal life like us but because of their disability, they face many problems in their daily life. They need assistance for doing their house works and finding the objects. They face difficulties in identifying the currency many peoples cheat them. They are facing problems in restaurants and shopping malls because they are unable to identify the price of the product and not able to read the menu cards of the restaurants.
 The problems are visually impaired person are mostly facing are below.
 1) Facing difficulty in visualizing the daily routine household items.
