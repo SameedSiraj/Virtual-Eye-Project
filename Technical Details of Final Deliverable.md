@@ -1,8 +1,8 @@
 ## Technical Details of Final Deliverable
 
-Technology Domain: Mobile Application    
-Development Language: XML, Java, Python                                                                                                                                             
-Model: SSD Mobilenet_v1
+**Technology Domain:** Mobile Application    
+**Development Language:** XML, Java, Python                                                                                                                                         
+**Model:** SSD Mobilenet_v1
 
 We are using the above mentioned tools and technologies to create our project. API’s are very helpful to perform the training and testing also the storage as well. We have to use minimum space for saving the large amount of data for the accuracy that is why we are using the technologies which play a tremendous role to complete that task.
 
