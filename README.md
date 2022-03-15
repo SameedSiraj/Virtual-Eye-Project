@@ -1,9 +1,9 @@
 # Virtual-Eye-Project
 Project Area of Specialization:	Artificial Intelligence                                                                                                                             
-Project Start Date:	2020-10-26	
+Project Start Date:	2020-10-26	                                                                                                                                                     
 Project End Date:	2021-05-31
 
-Project Summary:
+# Project Summary                                                                                                                                                                   
 Motivation:
 The current estimate suggests that there are 1.25 million blind individuals of all ages in Pakistan. They want to be a normal life like us but because of their disability, they face many problems in their daily life. They need assistance for doing their house works and finding the objects. They face difficulties in identifying the currency many peoples cheat them. They are facing problems in restaurants and shopping malls because they are unable to identify the price of the product and not able to read the menu cards of the restaurants.
 The problems are visually impaired person are mostly facing are below.
